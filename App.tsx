@@ -1,5 +1,5 @@
 import { useState } from 'react'; 
-import { StyleSheet, Text, TextInput, View, TouchableOpacity, Image, ScrollView } from 'react-native';
+import { StyleSheet, Text, TextInput, View, TouchableOpacity, Image } from 'react-native';
  
 export default function App() {
  
